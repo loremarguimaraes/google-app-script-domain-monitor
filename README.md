@@ -1,2 +1,2 @@
-# google-app-script-domain-monitor
+# Google App Script - Domain / Website Monitor
 Google Apps Script - Domain Monitor
