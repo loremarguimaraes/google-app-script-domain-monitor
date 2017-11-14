@@ -35,7 +35,6 @@ This is how you can manually instal the script
 
 ![google-app-script-domain-monitor-readme-3](https://user-images.githubusercontent.com/19185946/32801706-9944ab1c-c95c-11e7-8e28-4e9023ddd719.png)
 
-
 ## Bugs and Ideas
 If you have ideas to improve the script or run into bugs please open an issue or pull request, thanks!
 
