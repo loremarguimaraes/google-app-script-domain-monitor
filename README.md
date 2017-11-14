@@ -17,9 +17,9 @@ For example, if you monitor 100 URLs, every 15 minutes, will be using 9.600 requ
 
 ## How to Set Up
 
-This is how you can manually instal the script
+This is how you can manually install the script:
 
-1) Create new Google App Script you account and add four files: Monitor.gs, HttpStatusCodes.gs, Email_Body.html, Email_Footer.html
+1) Create a new Google App Script in your Google account and add four files: Monitor.gs, HttpStatusCodes.gs, Email_Body.html, Email_Footer.html
 
 2) Copy and paste the contents of Monitor.js, HttpStatusCodes.js, Email_Body.html, Email_Footer.html, respectively
 
