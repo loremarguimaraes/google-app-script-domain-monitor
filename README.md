@@ -11,7 +11,7 @@ This script is under active development. New features will be regularly added bu
 
 ## Limitations
 
-The script uses Google URL Fetch calls to request URLs. This service has limited quotas you can use on 24h basis. You can check this limitations in detail at: [Quotas for Google Services](https://developers.google.com/apps-script/guides/services/quotas" target="_blank)
+The script uses Google URL Fetch calls to request URLs. This service has limited quotas you can use on 24h basis. You can check this limitations in detail at: [Quotas for Google Services]("https://developers.google.com/apps-script/guides/services/quotas" "target=_blank")
 
 For example, if you monitor 100 URLs, every 15 minutes, will be using 9.600 request per day wich is under the current quota of 20.000 requests per day (for regular Gmail users).
 
